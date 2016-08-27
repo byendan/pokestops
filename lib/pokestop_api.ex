@@ -1,0 +1,2 @@
+defmodule Pokestops do
+end
